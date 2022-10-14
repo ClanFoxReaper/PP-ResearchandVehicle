@@ -1,0 +1,7 @@
+C:\Users\Constantin\Documents\ResearchandVehicle\Dist\meta.json
+C:\Users\Constantin\Documents\ResearchandVehicle\Dist\ResearchandVehicle.dll
+C:\Users\Constantin\Documents\ResearchandVehicle\Dist\ResearchandVehicle.pdb
+C:\Users\Constantin\Documents\ResearchandVehicle\ResearchandVehicle\obj\Debug\ResearchandVehicle.csproj.AssemblyReference.cache
+C:\Users\Constantin\Documents\ResearchandVehicle\ResearchandVehicle\obj\Debug\ResearchandVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Constantin\Documents\ResearchandVehicle\ResearchandVehicle\obj\Debug\ResearchandVehicle.dll
+C:\Users\Constantin\Documents\ResearchandVehicle\ResearchandVehicle\obj\Debug\ResearchandVehicle.pdb

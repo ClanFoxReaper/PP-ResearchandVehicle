@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.rv",
+  "AssemblyName": "ResearchandVehicle.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "ClanFoxReaper"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Research and Vehicle"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Research Reward and Vehicle Weapon Ground"
+    }
+  ],
+  "Dependencies": []
+}
